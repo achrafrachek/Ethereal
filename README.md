@@ -19,4 +19,5 @@ Once the transaction is complete you can take a look at recent transactions.
 ## Tools 
 This Web3 app uses different tools and techniques. The front-end part is done using React.js and Tailwind CSS. The blockchain was implemented using HardHat, smart contracts, solidity, and alchemy to track different request and develop the website in the ropsten network. 
 
-The app is available on https://etherealcrypto.netlify.app/
+>The app is available on https://etherealcrypto.netlify.app/
+(Code available in the master branch)
